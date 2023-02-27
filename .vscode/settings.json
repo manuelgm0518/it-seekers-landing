@@ -1,0 +1,10 @@
+{
+  "nuxt.isNuxtApp": false,
+  "files.exclude": {
+    ".eslintrc.json": true,
+    "next-env.d.ts": true,
+    "package-lock.json": true,
+    "postcss.config.js": true,
+    ".vscode": true
+  }
+}
